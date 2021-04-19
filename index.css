@@ -1,0 +1,55 @@
+div{
+margin-left: 350px;
+background-color: rgb(243, 240, 235);
+width: 200px;
+ border-radius: 10px;
+}
+.ali{
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: rgb(226, 25, 25);
+    color: rgb(250, 245, 245);
+    font-weight: bold;
+    margin-left: 25px;
+}
+.ami{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.hhh{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.ham{
+    margin-left: 15px;
+    height: 30px;
+    width: 170px;
+    border-radius: 5px;
+
+}
+.haha{
+    margin-left: 15px;
+    height:30px ;
+    width: 170px;
+    border-radius: 5px;
+}
+.vaa{
+    margin-left: 20px;
+    width: 170px;
+}
+.did{
+    margin-left: 20px;
+    width: 170px; 
+}
+.dad{
+    margin-left: 20px;
+    width: 170px;
+}
+.ttt{
+    border-radius: 5px;
+
+}
+.yyy{
+    border-radius: 5px;
+}
